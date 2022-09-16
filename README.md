@@ -2,6 +2,8 @@
 
 ![preview](./.github/preview.png)
 
+[Clique aqui para acessar](https://pedrotti1.github.io/nlw_esports/)
+
 > Trilha explorer
 
 Projeto construido na next level week da rocketseat
